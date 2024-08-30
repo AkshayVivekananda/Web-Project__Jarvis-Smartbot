@@ -21,7 +21,7 @@ voices = engine.getProperty('voices')
 engine.setProperty('voice', voices[1].id)
 uname = ""
 
-#---------------------------------------------------BEGIN OF USER DEFINED FUNCTION-------------------------------------#
+#---------------------------------------------------BEGIN OF USER DEFINED FUNCTION -------------------------------------#
 
 
 
